@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nau-crc&color=pink" alt="Nau profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Nau-crc&color=grey" alt="Nau profile views" />
 </p>
 
 ### Welcome everyone 👋
