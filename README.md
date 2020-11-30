@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nau-crc&color=pink" alt="Nau profile views" />
+</p>
+
+### Welcome everyone 👋
 
 <!--
 **Nau-crc/Nau-crc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
