@@ -4,13 +4,13 @@
 
 ### Hi There! 👋 I'm
 
-<p> _              ___        __    __    _______         ___<br>
-| |            /   \      |  |  |  |  |       \       /   \<br>
-| |           /  _  \     |  |  |  |  |  |_)  |      /  _  \<br>
-| |          /  /_\  \    |  |  |  |  |     _/      /  /_\  \<br>
-| |         /   ___   \   |  |  |  |  |  |\  \     /   ___   \<br>
-| |_____   /   /   \   \  |  \__/  |  |  | \  \   /   /   \   \<br>
-|_______| /___/     \___\  \______/   |__|  \__\ /___/     \___\ </p>
+ <!-- _              ___        __    __    _______         ___
+| |            /   \      |  |  |  |  |       \       /   \
+| |           /  _  \     |  |  |  |  |  |_)  |      /  _  \
+| |          /  /_\  \    |  |  |  |  |     _/      /  /_\  \
+| |         /   ___   \   |  |  |  |  |  |\  \     /   ___   \
+| |_____   /   /   \   \  |  \__/  |  |  | \  \   /   /   \   \
+|_______| /___/     \___\  \______/   |__|  \__\ /___/     \___\  -->
 
 
 
@@ -27,12 +27,14 @@ Currently I'm looking to find my way in either Front-End or Back-End, but as far
     Linked in: https://www.linkedin.com/in/laura-rodcarrion/
     Instagram: @naunita
 - ⚡ Fun fact about my live cycle: 
-    I studied Library Science...
-    I studied Acting...
-    I studied Administration...
-  All of them I'm one year left to go.
-  I'm 27years old.
-  Mother of a beautiful girl.
+<ul>
+    <li>I studied Library Science...</li>
+    <li>I studied Acting...</li>
+    <li>I studied Administration...</li>
+  <li>All of them I'm one year left to go.</li>
+  <li>I'm 27years old.</li>
+  <li>Mother of a beautiful girl.</li>
+</ul>
 
 
 
