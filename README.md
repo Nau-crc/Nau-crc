@@ -16,35 +16,28 @@
 
 ## :heart: Thanks for taking a short view of my in-progress projects :heart:
 
-Here you will find some different kind of repositories, for now I'm trying to stand my professional profile so all you will see deployed are part of my study program in Web Development.
+Here you will find some different kind of repositories, for now I'm trying to set my professional profile so all you will see deployed are part of my study program in Web Development.
 
 Currently I'm looking to find my way in either Front-End or Back-End, but as far as I'm studying I'm more focused in enjoying the process.
 
-- 🔭 I’m currently working on my life's extreme make over.
-- 🌱 I’m currently learning Full Stack Web Development at Factoria F5- Barcelona.
-- 💬 Ask me about Web development: CSS, HTML, JavaScript, PHP, Laravel.
-- 📫 How to reach me: 
-    Linked in: https://www.linkedin.com/in/laura-rodcarrion/
+# 🔭 I’m currently working on my life's extreme make over.
+I came to Barcelona with the European Dream to stand for myself and study my dream major: <b>Acting</b> <br>
+Some life slaps made me watch it from a different point of view and now here I am. <br>
+
+# 🌱 I’m currently learning Full Stack Web Development at Factoria F5- Barcelona.
+If you are claming for studies in Web Development, I cannot imagin myself not recomending <b>Factoria F5</b>. All the way inclusive, innovators in schooling, well adaptated to world changing
+
+# 💬 Ask me about 
+Web development: CSS, HTML, JavaScript, PHP, Laravel.
+
+# 📫 How to reach me: 
+    LinkedIn: https://www.linkedin.com/in/laura-rodcarrion/
     Instagram: @naunita
-- ⚡ Fun fact about my live cycle: 
-<ol>
-    <li>I studied Library Science...</li>
-    <li>I studied Acting...</li>
-    <li>I studied Administration...</li>
-  All of them I'm one year left to go.
-  I'm 27years old.
-  Mother of a beautiful girl.
-</ol>
+# ⚡ Fun fact about my live cycle: 
 
-
-
-<!--
-**Nau-crc/Nau-crc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-
--->
+   I studied <b>Library Science</b>... <br>
+   I studied <b>Acting</b>...<br>
+   I studied <b>Administration</b>...<br>
+  All of them I'm one year left to go.<br>
+  I'm 27years old.<br>
+  Mother of a beautiful girl.<br>
