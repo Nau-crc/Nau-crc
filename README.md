@@ -2,19 +2,19 @@
   <img src="https://komarev.com/ghpvc/?username=Nau-crc&color=grey" alt="Nau profile views" />
 </p>
 
-### Hi There! 👋 I'm
-
-__              ___        __    __    _______         ___
+### Hi There! 👋
+<!-- 
+ _              ___        __    __    _______         ___
 | |            /   \      |  |  |  |  |       \       /   \
 | |           /  _  \     |  |  |  |  |  |_)  |      /  _  \
 | |          /  /_\  \    |  |  |  |  |     _/      /  /_\  \
 | |         /   ___   \   |  |  |  |  |  |\  \     /   ___   \
 | |_____   /   /   \   \  |  \__/  |  |  | \  \   /   /   \   \
-|_______| /___/     \___\  \______/   |__|  \__\ /___/     \___\
+|_______| /___/     \___\  \______/   |__|  \__\ /___/     \___\ -->
 
 
 
-❤️Thanks for taking a short view of my in-progress projects.❤️
+## :heart: Thanks for taking a short view of my in-progress projects :heart:
 
 Here you will find some different kind of repositories, for now I'm trying to stand my professional profile so all you will see deployed, are part of my study program in Web Development.
 
