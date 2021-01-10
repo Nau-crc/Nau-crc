@@ -31,9 +31,9 @@ Currently I'm looking to find my way in either Front-End or Back-End, but as far
     <li>I studied Library Science...</li>
     <li>I studied Acting...</li>
     <li>I studied Administration...</li>
-  <li>All of them I'm one year left to go.</li>
-  <li>I'm 27years old.</li>
-  <li>Mother of a beautiful girl.</li>
+  All of them I'm one year left to go.
+  I'm 27years old.
+  Mother of a beautiful girl.
 </ol>
 
 
