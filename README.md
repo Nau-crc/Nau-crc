@@ -27,14 +27,14 @@ Currently I'm looking to find my way in either Front-End or Back-End, but as far
     Linked in: https://www.linkedin.com/in/laura-rodcarrion/
     Instagram: @naunita
 - ⚡ Fun fact about my live cycle: 
-<ul>
+<ol>
     <li>I studied Library Science...</li>
     <li>I studied Acting...</li>
     <li>I studied Administration...</li>
   <li>All of them I'm one year left to go.</li>
   <li>I'm 27years old.</li>
   <li>Mother of a beautiful girl.</li>
-</ul>
+</ol>
 
 
 
