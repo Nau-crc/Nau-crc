@@ -2,21 +2,21 @@
   <img src="https://komarev.com/ghpvc/?username=Nau-crc&color=grey" alt="Nau profile views" />
 </p>
 
-### Hi There! 👋
-<!-- 
- _              ___        __    __    _______         ___
-| |            /   \      |  |  |  |  |       \       /   \
-| |           /  _  \     |  |  |  |  |  |_)  |      /  _  \
-| |          /  /_\  \    |  |  |  |  |     _/      /  /_\  \
-| |         /   ___   \   |  |  |  |  |  |\  \     /   ___   \
-| |_____   /   /   \   \  |  \__/  |  |  | \  \   /   /   \   \
-|_______| /___/     \___\  \______/   |__|  \__\ /___/     \___\ -->
+### Hi There! 👋 I'm
+
+<p> _              ___        __    __    _______         ___<br>
+| |            /   \      |  |  |  |  |       \       /   \<br>
+| |           /  _  \     |  |  |  |  |  |_)  |      /  _  \<br>
+| |          /  /_\  \    |  |  |  |  |     _/      /  /_\  \<br>
+| |         /   ___   \   |  |  |  |  |  |\  \     /   ___   \<br>
+| |_____   /   /   \   \  |  \__/  |  |  | \  \   /   /   \   \<br>
+|_______| /___/     \___\  \______/   |__|  \__\ /___/     \___\ </p>
 
 
 
 ## :heart: Thanks for taking a short view of my in-progress projects :heart:
 
-Here you will find some different kind of repositories, for now I'm trying to stand my professional profile so all you will see deployed, are part of my study program in Web Development.
+Here you will find some different kind of repositories, for now I'm trying to stand my professional profile so all you will see deployed are part of my study program in Web Development.
 
 Currently I'm looking to find my way in either Front-End or Back-End, but as far as I'm studying I'm more focused in enjoying the process.
 
