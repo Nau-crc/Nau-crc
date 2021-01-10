@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Nau-crc&color=grey" alt="Nau profile views" />
 </p>
 
-### Hi There! 👋 I'm
+### Hi There! 👋
 
  <!-- _              ___        __    __    _______         ___
 | |            /   \      |  |  |  |  |       \       /   \
